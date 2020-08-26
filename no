@@ -3,7 +3,7 @@
 	<info>
 		<name>3 Kobolds in a Trench coat</name>
 		<update version="0.0.1">
-		<file name="race-3koboldsinatrenchcoat.xml" url="" />
+		<file name="race-3koboldsinatrenchcoat.xml" url="https://raw.githubusercontent.com/MaxChillax/3-kobolds/master/no" />
 		</update>
 	</info>
 	<element name="3 Kobolds in a Trench coat" type="Race" source="Homebrew" id="ID__RACE_3KOBOLDSINATRENCHCOAT">
